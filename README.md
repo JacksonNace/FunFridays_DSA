@@ -1,2 +1,2 @@
 This is for COSC 2436 Data Structures and Algorithms class. Every Friday, 7-9pm, we code interview style questions on topics we learned that week. 
-Week 1- Linked Lists https://uofh.sharepoint.com/sites/Cougartube/_layouts/15/stream.aspx?id=%2Fsites%2FCougartube%2FShared%20Documents%2FCougarTube%2F2025%20Spring%2FFun%20Fridays%2FFF1%20Linked%20Lists%2FNace%5FJackson%5Fvideo1%5FFF%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee94f940a%2Df12c%2D4839%2D8790%2D01c2de5a6915
+Week 1- Linked Lists
