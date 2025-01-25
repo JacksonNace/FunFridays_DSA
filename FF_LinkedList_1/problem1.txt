@@ -46,6 +46,7 @@ struct st {      - This defines a singular node. It stores a gpa and id value an
   float gpa: 
   st *next;
 };
+
 int main () {
   st *head;   - This loop goes through the linked list, filling in random values. At the end we set the new pointer value pointing to the next node within the list.
   for(int i=0;i<100;i++){
