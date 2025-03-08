@@ -2,3 +2,7 @@ This is for COSC 2436 Data Structures and Algorithms class. Every Friday, 7-9pm,
 Week 1- Linked Lists & adding linked lists to linked lists
 
 week 2 - linked lists palindrome
+
+skipped a few dpmwpempf
+
+week 6 - Hashing
